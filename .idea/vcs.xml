@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Animation_Grid/animation-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Animations/animation-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ArchitectureExample/architecture-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BBalance/bbalance-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BBalance/bbalance-android/albatross-monorepo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BBalance/bbalance-android/gitchangelog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BalloonFork/Balloon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CareOSV1/careos-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CareOSV2/CareOS-Android-v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CircularTimer/CircularTimer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CodeLabs/MotionLayout/motionlayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompanionAndroid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompanionAndroid/CoreModule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompanionAndroid/DocumentsSubmodule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompanionAndroid/DrivingTimeModule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompanionAndroid/EcoscoreSubmodule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompanionAndroid/FilesSubmodule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompanionAndroid/NavigationModule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompanionAndroid/OptifleetSubmodule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompanionAndroid/SecurityModule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CompanionAndroid/VehicleCheckSubmodule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Compose/Jetchat/compose-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FrenchTravelCertificate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GestureSample/android-playground" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KSP_Sample/ksp-sample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KSP_Sample_2/KspSample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Manpo/manpowerandroid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Mediateque" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OpenClassrooms/OpenClassrooms---Parcours-Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OpenClassrooms/Projet 3 SIvani/entreVoisins" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pokedex/Pokedex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Todoc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ToolTipLibrary/android-simple-tooltip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TransportProtocolAndroid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TransportProtocolAndroid/core-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ZoomableView/ZoomableTextureView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/careosipandroid/careosipandroid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/now-or-never" vcs="Git" />
+  </component>
+</project>

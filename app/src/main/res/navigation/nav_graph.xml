@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fizzBuzzFormFragment">
+    <fragment
+        android:id="@+id/fizzBuzzFormFragment"
+        android:name="com.kilani.fizzbuzz.ui.form.FizzBuzzFormFragment"
+        tools:layout="@layout/fragment_form">
+        <action
+            android:id="@+id/action_fizzBuzzFormFragment_to_fizzBuzzResultsFragment"
+            app:destination="@id/fizzBuzzResultsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/fizzBuzzResultsFragment"
+        android:name="com.kilani.fizzbuzz.ui.results.FizzBuzzResultsFragment"
+        tools:layout="@layout/fragment_results" />
+
+</navigation>
